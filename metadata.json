@@ -1,0 +1,6 @@
+{
+  "name": "Lead AI Scanner Pro",
+  "description": "AI-powered lead management, document scanning, and CRM platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
